@@ -1,4 +1,4 @@
-# go-embedding-accessor
+# go-embedding-accessor [![Actions Status](https://github.com/monochromegane/go-embedding-accessor/workflows/Go/badge.svg)](https://github.com/monochromegane/go-embedding-accessor/actions)
 
 An accessor generator for files embedded with go:embed.
 
